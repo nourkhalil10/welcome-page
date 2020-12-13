@@ -1,6 +1,6 @@
-# clean_login
+# welcome_page
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
